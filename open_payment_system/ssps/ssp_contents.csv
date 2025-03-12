@@ -1,0 +1,535 @@
+"ssp_id","line_item_id","code_type","line_code","package_base_code_boolean","fee_type","sub_package_ids","line_item_association_rate","description","ssp_version"
+DE000,66724,HCPCS,"19083",1,Base Code,"221DE",0.6445,Percutaneous Breast Biopsy Withimaging & Localization Devices,1.1
+DE000,61108,HCPCS,"19081",1,Base Code,"186DE",0.2846,"Percutaneous Breast Biopsy with Localization Device, Imaging, and Stereotactic Guidance",1.1
+DE000,13395,HCPCS,"19085",1,Base Code,"222DE",0.0707,"Percutaneous Breast Biopsy with Localization Device, Mr Imaging",1.1
+DE000,51076,DIAG,R92,0,Diagnosis Codes,"222DE, 221DE, 186DE",0.2734,Abnormal and inconclusive findings on dx imaging of breast,1.1
+DE000,24387,DIAG,N63,0,Diagnosis Codes,"222DE, 221DE",0.2014,Unspecified lump in breast,1.1
+DE000,50932,DIAG,N60,0,Diagnosis Codes,"222DE, 221DE, 186DE",0.1599,Benign mammary dysplasia,1.1
+DE000,55012,DIAG,D24,0,Diagnosis Codes,"221DE",0.1044,Benign neoplasm of breast,1.1
+DE000,96964,DIAG,C50,0,Diagnosis Codes,"222DE",0.0074,Malignant neoplasm of breast,1.1
+DE000,22995,HCPCS,A4648,0,Facility Fee,"221DE, 222DE, 186DE",0.6326,"Implantable Tissue Marker, Any Type, Each",1.1
+DE000,111220,RC,"0401",0,Facility Fee,"221DE, 186DE, 222DE",0.5680,Other Imaging Services - Diagnostic mammography,1.1
+DE000,67012,HCPCS,"88333",0,Facility Fee,"221DE",0.5575,"Technical: Cytopathology Consultation Including Touch/Squash Preparatory Tests, Initial Site",1.1
+DE000,69748,RC,"0278",0,Facility Fee,"222DE, 186DE, 221DE",0.5397,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Other implants",1.1
+DE000,30340,RC,"0272",0,Facility Fee,"222DE, 221DE, 186DE",0.5107,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+DE000,22563,RC,"0361",0,Facility Fee,"222DE, 221DE, 186DE",0.4476,Operating Room Services - Minor surgery,1.1
+DE000,723,HCPCS,"88307",0,Facility Fee,"222DE, 186DE",0.3220,"Surgical Pathology Gross/Microscopic Exam, Various Organ/Tissue Resections/Biopsies",1.1
+DE000,26404,RC,"0312",0,Facility Fee,"186DE, 222DE",0.1499,Laboratory Pathology - Histology,1.1
+DE000,77476,RC,"0636",0,Facility Fee,"222DE",0.0399,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+DE000,93460,HCPCS,A9585,0,Facility Fee,"222DE",0.0293,Intramuscular Injection of 0.1ml. Gadobutrol,1.1
+DE000,15220,RC,"0310",0,Optional Fee,"221DE, 222DE, 186DE",0.3851,Laboratory Pathology - General,1.1
+DE000,94948,RC,"0250",0,Optional Fee,"222DE, 186DE, 221DE",0.3562,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+DE000,54724,RC,"0312",0,Optional Fee,"221DE",0.2526,Laboratory Pathology - Histology,1.1
+DE000,62548,HCPCS,"88344",0,Optional Fee,"221DE, 186DE",0.2268,"Immunoassay Detection of Antibodies in Tissue Sample, Multiplex per Specimen",1.1
+DE000,81604,HCPCS,"77049",0,Professional Fee,"221DE",0.6065,MRI of Bilateral Breasts with Contrast and CAD Analysis,1.1
+EN000,12916,HCPCS,"42820",1,Base Code,"127EN",1.0000,Tonsil and Adenoid Removal Surgery in Children Under 12 Years Old,1.1
+EN000,42532,DIAG,J35,0,Diagnosis Codes,"127EN",0.7539,Chronic diseases of tonsils and adenoids,1.1
+EN000,13203,RC,"0710",0,Facility Fee,"127EN",0.9100,Recovery Room - General,1.1
+EN000,53380,RC,"0370",0,Facility Fee,"127EN",0.8649,Anesthesia - General,1.1
+EN000,9171,RC,"0250",0,Facility Fee,"127EN",0.8649,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+EN000,61396,HCPCS,J1100,0,Facility Fee,"127EN",0.8510,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+EN000,7203,RC,"0360",0,Facility Fee,"127EN",0.8400,Operating Room Services - General,1.1
+EN000,112228,HCPCS,J2405,0,Facility Fee,"127EN",0.8330,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+EN000,72868,RC,"0636",0,Facility Fee,"127EN",0.7490,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+EN000,112612,HCPCS,J2704,0,Facility Fee,"127EN",0.6389,Intramuscular Injection of 10mg Propofol,1.1
+EN000,9844,HCPCS,J3010,0,Facility Fee,"127EN",0.5729,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+EN000,70852,RC,"0272",0,Facility Fee,"127EN",0.4760,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+EN000,107572,HCPCS,"88304",0,Optional Fee,"127EN",0.3759,Gross and Microscopic Surgical Pathology Examination of Various Body Organs/Structures,1.1
+EN000,32644,HCPCS,"00126",0,Professional Fee,"127EN",0.6450,Anesthesia for Ear Procedures Including Biopsy and Tympanotomy,1.1
+GA000,34036,HCPCS,"44388",1,Base Code,"116GA",0.5552,Diagnostic Stoma Colonoscopy with Brushing/Washing Specimen Collection,1.1
+GA000,30292,HCPCS,"44389",1,Base Code,"117GA",0.2579,Colonostomy Endoscopy with Biopsy(s); Diagnosis/Surveillance,1.1
+GA000,12339,HCPCS,"44394",1,Base Code,"119GA",0.1796,"Colonoscopy via Stoma; Tumor, Polyp, Lesion Resection via Snare",1.1
+GA000,19156,HCPCS,"44404",1,Base Code,"122GA",0.0068,"Endoscopic Insertion of Stoma, with Injecting of Agents Beneath Lining",1.1
+GA000,14308,HCPCS,"44406",1,Base Code,"123GA",0.0003,"Endoscopic Ultrasound Examination of Sigmoid, Descending, Transverse, & Ascending Colon & Cecum",1.1
+GA000,81556,DIAG,Z12,0,Diagnosis Codes,"116GA, 119GA, 117GA, 122GA",0.3306,Encounter for screening for malignant neoplasms,1.1
+GA000,9364,DIAG,K57,0,Diagnosis Codes,"122GA, 116GA",0.0720,Diverticular disease of intestine,1.1
+GA000,93364,DIAG,D12,0,Diagnosis Codes,"122GA, 119GA",0.0361,"Benign neoplasm of colon, rectum, anus and anal canal",1.1
+GA000,66004,DIAG,K50,0,Diagnosis Codes,"117GA",0.0305,Crohn's disease [regional enteritis],1.1
+GA000,68692,DIAG,Z09,0,Diagnosis Codes,"122GA",0.0009,Encntr for f/u exam aft trtmt for cond oth than malig neoplm,1.1
+GA000,10180,DIAG,C18,0,Diagnosis Codes,"122GA",0.0009,Malignant neoplasm of colon,1.1
+GA000,24963,DIAG,K29,0,Diagnosis Codes,"123GA",0.0003,Gastritis and duodenitis,1.1
+GA000,50308,RC,"0636",0,Facility Fee,"119GA, 116GA, 123GA, 117GA, 122GA",0.6902,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+GA000,101956,RC,"0370",0,Facility Fee,"122GA, 119GA, 123GA, 117GA, 116GA",0.6837,Anesthesia - General,1.1
+GA000,69028,HCPCS,J2704,0,Facility Fee,"119GA, 122GA, 117GA, 116GA",0.6300,Intramuscular Injection of 10mg Propofol,1.1
+GA000,1444,RC,"0750",0,Facility Fee,"116GA, 119GA, 123GA, 117GA, 122GA",0.6001,Gastrointestinal Services - General,1.1
+GA000,14979,RC,"0710",0,Facility Fee,"122GA, 116GA, 123GA, 119GA, 117GA",0.5770,Recovery Room - General,1.1
+GA000,85252,RC,"0250",0,Facility Fee,"119GA, 116GA, 117GA, 122GA",0.5087,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+GA000,42196,HCPCS,"87252",0,Facility Fee,"117GA",0.2270,Identifying Viruses in Tissue Cultures by Observing Cell Damage Effects,1.1
+GA000,81124,HCPCS,"87081",0,Facility Fee,"119GA",0.1494,"Culture Presumptive Pathogen Detection, Screening Only",1.1
+GA000,58708,RC,"0312",0,Facility Fee,"117GA, 123GA",0.1085,Laboratory Pathology - Histology,1.1
+GA000,22371,RC,"0272",0,Facility Fee,"122GA, 119GA",0.0779,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+GA000,108100,RC,"0310",0,Facility Fee,"119GA",0.0726,Laboratory Pathology - General,1.1
+GA000,38596,RC,"0270",0,Facility Fee,"122GA",0.0031,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - General",1.1
+GA000,59668,RC,"0121",0,Facility Fee,"123GA",0.0003,Room and Board Semi-private (two beds) - Medical/Surgical/GYN,1.1
+GA000,15363,RC,"0300",0,Facility Fee,"123GA",0.0003,Laboratory - General,1.1
+GA000,93076,RC,"0352",0,Facility Fee,"123GA",0.0003,CT Scan - Body scan,1.1
+GA000,64660,RC,"0305",0,Facility Fee,"123GA",0.0003,Laboratory - Hematology,1.1
+GA000,26596,RC,"0940",0,Facility Fee,"123GA",0.0003,Other Therapeutic Services - See also 095X - General,1.1
+GA000,11812,RC,"0324",0,Facility Fee,"123GA",0.0003,Radiology Diagnostic - Chest X-ray,1.1
+GA000,100468,RC,"0450",0,Facility Fee,"123GA",0.0003,Emergency Room - General,1.1
+GA000,100756,RC,"0301",0,Facility Fee,"123GA",0.0003,Laboratory - Chemistry,1.1
+GA000,102964,RC,"0307",0,Facility Fee,"123GA",0.0003,Laboratory - Urology,1.1
+GA000,73060,RC,"0272",0,Optional Fee,"117GA",0.0991,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+GA000,82900,RC,"0310",0,Optional Fee,"117GA, 122GA",0.0910,Laboratory Pathology - General,1.1
+GA000,14596,RC,"0312",0,Optional Fee,"119GA",0.0601,Laboratory Pathology - Histology,1.1
+GA000,21844,RC,"0258",0,Optional Fee,"122GA",0.0021,"Pharmacy (Also see 063X, an extension of 250X) - IV solutions",1.1
+GA002,292,HCPCS,"45380",1,Base Code,"129GA",0.4036,Endoscopic Colon Biopsy with Flexible Scope for Diagnosis,1.1
+GA002,5764,HCPCS,"45385",1,Base Code,"133GA",0.3071,Colonoscopy with Snare Resection of Tumor/Polyps/lesions,1.1
+GA002,25396,HCPCS,"45378",1,Base Code,"101GA",0.2613,"Flexible Endoscopy to Diagnose Colon, with Specimen Collection",1.1
+GA002,37444,HCPCS,"45381",1,Base Code,"130GA",0.0135,Flexible Colonoscopy with Submucosal Injections of Any Substance,1.1
+GA002,34756,HCPCS,"45384",1,Base Code,"132GA",0.0121,Flexible Endoscopic Colonoscopy with Hot Biopsy Forceps Excision of Lesion,1.1
+GA002,8355,HCPCS,"45382",1,Base Code,"131GA",0.0018,Flexible Colonoscopy with Control of Bleeding of Any Technique,1.1
+GA002,724,HCPCS,"45379",1,Base Code,"128GA",0.0002,Flexible Colonoscopy with Foreign Body Removal,1.1
+GA002,42916,HCPCS,"45337",1,Base Code,"127GA",0.0000,Flexible Sigmoidoscopy with Decompression Tube for Distention-related Pathologies,1.1
+GA002,55108,HCPCS,"45317",1,Base Code,"126GA",0.0000,Rigid Proctosigmoidoscopy with Control of Bleeding by Tools,1.1
+GA002,12291,DIAG,Z12,0,Diagnosis Codes,"133GA, 130GA, 101GA, 131GA, 128GA, 129GA, 132GA",0.6203,Encounter for screening for malignant neoplasms,1.1
+GA002,108916,DIAG,D12,0,Diagnosis Codes,"130GA",0.0026,"Benign neoplasm of colon, rectum, anus and anal canal",1.1
+GA002,18243,DIAG,K55,0,Diagnosis Codes,"131GA",0.0002,Vascular disorders of intestine,1.1
+GA002,8163,DIAG,K56,0,Diagnosis Codes,"127GA",0.0000,Paralytic ileus and intestinal obstruction without hernia,1.1
+GA002,111460,DIAG,K62,0,Diagnosis Codes,"126GA",0.0000,Other diseases of anus and rectum,1.1
+GA002,113764,DIAG,T18,0,Diagnosis Codes,"128GA",0.0000,Foreign body in alimentary tract,1.1
+GA002,77332,RC,"0636",0,Facility Fee,"129GA, 101GA, 126GA, 128GA, 130GA, 133GA, 132GA, 127GA, 131GA",0.6091,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+GA002,31540,RC,"0370",0,Facility Fee,"127GA, 133GA, 131GA, 126GA, 129GA, 128GA, 130GA, 101GA, 132GA",0.6032,Anesthesia - General,1.1
+GA002,107860,RC,"0750",0,Facility Fee,"101GA, 127GA, 131GA, 128GA, 130GA, 133GA, 129GA, 132GA",0.5494,Gastrointestinal Services - General,1.1
+GA002,35236,RC,"0710",0,Facility Fee,"131GA, 133GA, 129GA, 132GA, 101GA, 127GA, 126GA, 130GA, 128GA",0.5238,Recovery Room - General,1.1
+GA002,47668,RC,"0250",0,Facility Fee,"130GA, 101GA, 128GA, 131GA, 132GA, 133GA, 127GA, 129GA, 126GA",0.4720,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+GA002,76276,HCPCS,"87081",0,Facility Fee,"133GA",0.2337,"Culture Presumptive Pathogen Detection, Screening Only",1.1
+GA002,82036,RC,"0272",0,Facility Fee,"132GA, 130GA, 128GA, 131GA",0.0148,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+GA002,98692,HCPCS,"88309",0,Facility Fee,"130GA",0.0107,"Surgical Pathology, Gross/Microscopic Examination; Resection Tumor/Neoplasm; Dissection/Disarticulation",1.1
+GA002,6195,HCPCS,"88307",0,Facility Fee,"128GA",0.0001,"Surgical Pathology Gross/Microscopic Exam, Various Organ/Tissue Resections/Biopsies",1.1
+GA002,19587,RC,"0360",0,Facility Fee,"126GA",0.0000,Operating Room Services - General,1.1
+GA002,9603,HCPCS,"36415",0,Facility Fee,"127GA",0.0000,Collection of Blood From a Vein via Puncture,1.1
+GA002,47332,HCPCS,"85027",0,Facility Fee,"127GA",0.0000,Automated Complete Blood Count (cbc) Analysis,1.1
+GA002,89908,RC,"0320",0,Facility Fee,"127GA",0.0000,Radiology Diagnostic - General,1.1
+GA002,20547,RC,"0300",0,Facility Fee,"127GA",0.0000,Laboratory - General,1.1
+GA002,91060,RC,"0305",0,Facility Fee,"127GA",0.0000,Laboratory - Hematology,1.1
+GA002,22948,HCPCS,Q9966,0,Facility Fee,"127GA",0.0000,Low-osmolar Contrast Material with 200-299 Mg/Ml. Iodine Concentration per ml,1.1
+GA002,17380,HCPCS,"87077",0,Facility Fee,"127GA",0.0000,"Identify Bacteria, Additional Tests Required, Each Isolate",1.1
+GA002,91492,HCPCS,J7120,0,Facility Fee,"126GA",0.0000,Intravenous Infusion of 1000 Cc of Ringer's Lactate Solution,1.1
+GA002,41956,RC,"0301",0,Facility Fee,"127GA",0.0000,Laboratory - Chemistry,1.1
+GA002,3508,HCPCS,J3010,0,Facility Fee,"126GA",0.0000,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+GA002,4180,RC,"0450",0,Facility Fee,"127GA",0.0000,Emergency Room - General,1.1
+GA002,88036,RC,"0272",0,Optional Fee,"133GA, 129GA, 127GA",0.2584,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+GA002,42628,RC,"0310",0,Optional Fee,"129GA, 132GA, 133GA, 130GA",0.2553,Laboratory Pathology - General,1.1
+GA002,5044,RC,"0312",0,Optional Fee,"133GA, 129GA, 130GA",0.2231,Laboratory Pathology - Histology,1.1
+GA002,7348,RC,"0258",0,Optional Fee,"132GA",0.0045,"Pharmacy (Also see 063X, an extension of 250X) - IV solutions",1.1
+GA002,97252,HCPCS,J1100,0,Optional Fee,"126GA",0.0000,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+GA002,32356,RC,"0270",0,Optional Fee,"126GA",0.0000,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - General",1.1
+GA002,21555,HCPCS,J2405,0,Optional Fee,"126GA",0.0000,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+GA002,102052,RC,"0352",0,Optional Fee,"127GA",0.0000,CT Scan - Body scan,1.1
+GA002,56068,HCPCS,"83735",0,Optional Fee,"127GA",0.0000,Inorganic Ionic Element Essential for Body Functions,1.1
+GA002,104308,RC,"0730",0,Optional Fee,"127GA",0.0000,EKG/ECG Electrocardiogram - General,1.1
+GA002,16179,HCPCS,J2250,0,Optional Fee,"126GA",0.0000,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+GA002,59524,HCPCS,J2704,0,Optional Fee,"127GA",0.0000,Intramuscular Injection of 10mg Propofol,1.1
+GA002,13347,HCPCS,"00813",0,Professional Fee,"132GA, 128GA, 101GA, 130GA, 133GA, 129GA",0.5246,"Anesthesia for Combined Upper &amp; Lower Gi Endoscopic Procedures, Both Proximal &amp; Distal to Duodenum",1.1
+GA007,113236,HCPCS,"43239",1,Base Code,"107GA",0.8126,"Flexible Transoral Examination of Esophagus, Stomach & Duodenum with Biopsy",1.1
+GA007,62836,HCPCS,"43235",1,Base Code,"100GA",0.1472,"Flexible Endoscopic Examination of the Esophagus, Stomach and Duodenum with Biopsy",1.1
+GA007,17812,HCPCS,"43248",1,Base Code,"108GA",0.0218,Flexible Esophago-gastro-duodenoscopy with Guide Wire Dilatation,1.1
+GA007,40516,HCPCS,"43247",1,Base Code,"180GA",0.0121,Flexible Scope with Removal of Esophageal Foreign Body(s),1.1
+GA007,34996,HCPCS,"43236",1,Base Code,"173GA",0.0061,Flexible Endoscopic Examination of Upper Gi with Submucosal Injections,1.1
+GA007,87652,DIAG,K29,0,Diagnosis Codes,"107GA",0.1519,Gastritis and duodenitis,1.1
+GA007,59332,DIAG,K21,0,Diagnosis Codes,"107GA, 100GA",0.1334,Gastro-esophageal reflux disease,1.1
+GA007,89524,DIAG,Z12,0,Diagnosis Codes,"100GA, 107GA",0.1196,Encounter for screening for malignant neoplasms,1.1
+GA007,2355,DIAG,K22,0,Diagnosis Codes,"108GA, 173GA",0.0110,Other diseases of esophagus,1.1
+GA007,56548,DIAG,R13,0,Diagnosis Codes,"173GA, 108GA",0.0063,Aphagia and dysphagia,1.1
+GA007,113812,DIAG,T18,0,Diagnosis Codes,"180GA",0.0040,Foreign body in alimentary tract,1.1
+GA007,63076,DIAG,Z46,0,Diagnosis Codes,"180GA",0.0021,Encounter for fitting and adjustment of other devices,1.1
+GA007,37012,DIAG,K31,0,Diagnosis Codes,"173GA",0.0015,Other diseases of stomach and duodenum,1.1
+GA007,5956,HCPCS,"88112",0,Facility Fee,"107GA",0.6574,Liquid Based Cytology with Focused Cellular Analysis and Interpretation,1.1
+GA007,59476,RC,"0370",0,Facility Fee,"107GA, 173GA, 108GA, 180GA, 100GA",0.6369,Anesthesia - General,1.1
+GA007,10804,RC,"0636",0,Facility Fee,"108GA, 107GA, 173GA, 100GA, 180GA",0.6311,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+GA007,55876,HCPCS,J2704,0,Facility Fee,"107GA, 100GA, 180GA, 173GA, 108GA",0.6157,Intramuscular Injection of 10mg Propofol,1.1
+GA007,15027,RC,"0710",0,Facility Fee,"173GA, 180GA, 108GA, 107GA, 100GA",0.5576,Recovery Room - General,1.1
+GA007,7636,RC,"0750",0,Facility Fee,"100GA, 180GA, 107GA, 173GA, 108GA",0.5548,Gastrointestinal Services - General,1.1
+GA007,29236,RC,"0250",0,Facility Fee,"180GA, 108GA, 173GA, 107GA, 100GA",0.5312,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+GA007,8787,RC,"0272",0,Facility Fee,"180GA, 173GA, 108GA",0.0197,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+GA007,97204,HCPCS,J0585,0,Facility Fee,"173GA",0.0037,Intramuscular Injection of 1 Unit of Onabotulinumtoxina,1.1
+GA007,49444,RC,"0272",0,Optional Fee,"107GA",0.2836,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+GA007,75316,RC,"0310",0,Optional Fee,"107GA",0.2795,Laboratory Pathology - General,1.1
+GA007,42292,RC,"0312",0,Optional Fee,"107GA",0.2681,Laboratory Pathology - Histology,1.1
+GA007,7923,HCPCS,J2405,0,Optional Fee,"180GA",0.0045,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+GA007,80164,HCPCS,"88341",0,Professional Fee,"107GA",0.4047,Antibody Staining Procedure for Existing Histochemistry Specimen,1.1
+GA010,17236,HCPCS,"49650",1,Base Code,"151GA",0.9215,Repair of Hernia Through Laparoscopic Surgical Incision,1.1
+GA010,57028,HCPCS,"49651",1,Base Code,"212GA",0.0784,Laparoscopic Surgical Repair of Hernia Recurrence in Inguinal Area,1.1
+GA010,67492,DIAG,K40,0,Diagnosis Codes,"151GA, 212GA",0.9521,Inguinal hernia,1.1
+GA010,112036,RC,"0710",0,Facility Fee,"212GA, 151GA",0.9540,Recovery Room - General,1.1
+GA010,85348,RC,"0250",0,Facility Fee,"151GA, 212GA",0.9108,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+GA010,31060,HCPCS,C1781,0,Facility Fee,"212GA, 151GA",0.8985,Implantable Medical Device Made of Mesh Material,1.1
+GA010,99604,RC,"0370",0,Facility Fee,"151GA, 212GA",0.8935,Anesthesia - General,1.1
+GA010,3315,HCPCS,J2405,0,Facility Fee,"212GA, 151GA",0.8816,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+GA010,23619,HCPCS,J3010,0,Facility Fee,"212GA, 151GA",0.8812,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+GA010,963,RC,"0360",0,Facility Fee,"212GA, 151GA",0.8468,Operating Room Services - General,1.1
+GA010,72772,RC,"0636",0,Facility Fee,"212GA, 151GA",0.8291,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+GA010,28756,HCPCS,J2704,0,Facility Fee,"212GA, 151GA",0.8267,Intramuscular Injection of 10mg Propofol,1.1
+GA010,65812,RC,"0278",0,Facility Fee,"212GA, 151GA",0.8085,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Other implants",1.1
+GA010,34180,HCPCS,J1100,0,Facility Fee,"212GA, 151GA",0.8034,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+GA010,65332,HCPCS,J0690,0,Facility Fee,"212GA, 151GA",0.7681,Intramuscular Injection of 500mg Cefazolin Sodium,1.1
+GA010,114340,RC,"0272",0,Facility Fee,"212GA, 151GA",0.7419,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+GA010,7395,HCPCS,J2250,0,Facility Fee,"212GA, 151GA",0.6382,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+GA010,113428,HCPCS,J7120,0,Facility Fee,"212GA, 151GA",0.4657,Intravenous Infusion of 1000 Cc of Ringer's Lactate Solution,1.1
+GA010,16660,HCPCS,J1885,0,Facility Fee,"212GA, 151GA",0.4248,Intramuscular Injection of 15mg Ketorolac Tromethamine,1.1
+GA010,12867,HCPCS,J1170,0,Facility Fee,"212GA",0.0320,"Injection of Hydromorphone, Up to 4 MG",1.1
+GA010,60052,RC,"0270",0,Optional Fee,"151GA, 212GA",0.3588,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - General",1.1
+GA010,11715,HCPCS,J3490,0,Optional Fee,"212GA, 151GA",0.3453,Pharmaceuticals without Categories,1.1
+GA010,6292,HCPCS,"00832",0,Professional Fee,"212GA, 151GA",0.4689,Monitoring of Antepartum Diagnosis without Surgery and Complications,1.1
+GA011,14116,HCPCS,"49505",1,Base Code,"149GA",0.5982,Repair of Reducible Inguinal Hernia in Patient 5+ Years,1.1
+GA011,63172,HCPCS,"49591",1,Base Code,"211GA",0.2548,"Repair of Reducible Anterior Abdominal Hernia, Any Approach, Implantation of Mesh or Prosthesis",1.1
+GA011,65956,HCPCS,"49507",1,Base Code,"204GA",0.0801,Repair of Incarcerated/Strangulated Inguinal Hernia in ≥ 5yo,1.1
+GA011,49012,HCPCS,"49520",1,Base Code,"205GA",0.0667,"Repair Recurrent Hernia of Inguinal Region, Reducible, Any Age",1.1
+GA011,58180,DIAG,K40,0,Diagnosis Codes,"205GA, 204GA, 149GA",0.6952,Inguinal hernia,1.1
+GA011,101860,DIAG,K42,0,Diagnosis Codes,"211GA",0.1615,Umbilical hernia,1.1
+GA011,111988,RC,"0710",0,Facility Fee,"149GA, 204GA, 211GA, 205GA",0.9375,Recovery Room - General,1.1
+GA011,75460,RC,"0370",0,Facility Fee,"211GA, 204GA, 149GA, 205GA",0.8758,Anesthesia - General,1.1
+GA011,109828,RC,"0250",0,Facility Fee,"211GA, 205GA, 204GA, 149GA",0.8754,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+GA011,73780,RC,"0360",0,Facility Fee,"204GA, 211GA, 149GA, 205GA",0.8633,Operating Room Services - General,1.1
+GA011,79636,RC,"0636",0,Facility Fee,"211GA, 205GA, 149GA, 204GA",0.8411,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+GA011,63220,HCPCS,J3010,0,Facility Fee,"149GA, 211GA, 205GA, 204GA",0.8176,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+GA011,7779,HCPCS,J2405,0,Facility Fee,"149GA, 211GA, 204GA, 205GA",0.8145,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+GA011,59572,HCPCS,J2704,0,Facility Fee,"149GA, 211GA, 205GA, 204GA",0.7708,Intramuscular Injection of 10mg Propofol,1.1
+GA011,52420,HCPCS,C1781,0,Facility Fee,"205GA, 211GA, 149GA, 204GA",0.7080,Implantable Medical Device Made of Mesh Material,1.1
+GA011,113092,HCPCS,J0690,0,Facility Fee,"204GA, 211GA, 149GA, 205GA",0.7004,Intramuscular Injection of 500mg Cefazolin Sodium,1.1
+GA011,90436,HCPCS,J1100,0,Facility Fee,"149GA, 211GA, 204GA, 205GA",0.6829,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+GA011,2932,RC,"0278",0,Facility Fee,"204GA, 211GA, 205GA, 149GA",0.6628,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Other implants",1.1
+GA011,72244,RC,"0272",0,Facility Fee,"204GA, 211GA, 205GA, 149GA",0.5894,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+GA011,23955,HCPCS,J2250,0,Facility Fee,"149GA, 211GA, 205GA, 204GA",0.5584,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+GA011,86308,HCPCS,J7120,0,Facility Fee,"211GA, 204GA, 205GA",0.1836,Intravenous Infusion of 1000 Cc of Ringer's Lactate Solution,1.1
+GA011,50596,HCPCS,"49659",0,Facility Fee,"211GA",0.1699,"Laparoscopic Unlisted Hernioplasty, Herniorrhaphy, Herniotomy",1.1
+GA011,90724,HCPCS,J1885,0,Facility Fee,"211GA",0.1197,Intramuscular Injection of 15mg Ketorolac Tromethamine,1.1
+GA011,14787,HCPCS,"88307",0,Facility Fee,"204GA",0.0350,"Surgical Pathology Gross/Microscopic Exam, Various Organ/Tissue Resections/Biopsies",1.1
+GA011,2020,RC,"0270",0,Optional Fee,"205GA, 149GA, 211GA, 204GA",0.3242,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - General",1.1
+GA011,63508,HCPCS,J3490,0,Optional Fee,"211GA",0.0795,Pharmaceuticals without Categories,1.1
+MS006,32740,HCPCS,"29881",1,Base Code,"164MS",0.5297,Arthroscopic Knee Meniscectomy with Debridement/Cartilage Shaving,1.1
+MS006,90484,HCPCS,"29880",1,Base Code,"163MS",0.1839,"Arthroscopy, Knee, Meniscectomy, Debridement/Chondroplasty, Maybe Multiple Compartments",1.1
+MS006,21652,HCPCS,"29877",1,Base Code,"246MS",0.0716,Arthroscopic Knee Surgery to Remove and Shape Cartilage,1.1
+MS006,13732,HCPCS,"29882",1,Base Code,"248MS",0.0701,Surgical Knee Arthroscopy with Medial/Lateral Meniscus Repair,1.1
+MS006,95764,HCPCS,"29876",1,Base Code,"245MS",0.0575,Arthroscopic Knee Synovectomy of at Least Two Compartments,1.1
+MS006,9796,HCPCS,"29879",1,Base Code,"247MS",0.0527,"Arthroscopic Knee Surgery with Abrasion, Chondroplasty, Drilling, Microfracture",1.1
+MS006,51268,HCPCS,"29875",1,Base Code,"244MS",0.0342,Arthroscopic Knee Synovectomy for Limited Resection of Shelf or Plica,1.1
+MS006,21267,DIAG,S83,0,Diagnosis Codes,"248MS, 164MS, 244MS, 247MS, 246MS, 245MS, 163MS",0.6907,Dislocation and sprain of joints and ligaments of knee,1.1
+MS006,87604,DIAG,M23,0,Diagnosis Codes,"247MS, 246MS, 245MS",0.0228,Internal derangement of knee,1.1
+MS006,55252,DIAG,M22,0,Diagnosis Codes,"246MS",0.0169,Disorder of patella,1.1
+MS006,105796,DIAG,M94,0,Diagnosis Codes,"246MS",0.0155,Other disorders of cartilage,1.1
+MS006,7300,DIAG,M67,0,Diagnosis Codes,"244MS",0.0134,Other disorders of synovium and tendon,1.1
+MS006,69268,DIAG,M65,0,Diagnosis Codes,"245MS",0.0079,Synovitis and tenosynovitis,1.1
+MS006,85588,RC,"0710",0,Facility Fee,"247MS, 163MS, 246MS, 164MS, 244MS, 245MS, 248MS",0.7951,Recovery Room - General,1.1
+MS006,18436,RC,"0250",0,Facility Fee,"245MS, 244MS, 163MS, 164MS, 246MS, 247MS, 248MS",0.7804,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+MS006,14355,RC,"0360",0,Facility Fee,"244MS, 163MS, 246MS, 247MS, 245MS, 248MS, 164MS",0.7796,Operating Room Services - General,1.1
+MS006,4372,RC,"0370",0,Facility Fee,"247MS, 245MS, 244MS, 248MS, 164MS, 246MS, 163MS",0.7131,Anesthesia - General,1.1
+MS006,18580,RC,"0636",0,Facility Fee,"164MS, 163MS, 246MS, 244MS, 245MS, 247MS, 248MS",0.5943,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+MS006,95908,HCPCS,J3010,0,Facility Fee,"164MS, 163MS, 247MS, 245MS, 244MS, 246MS, 248MS",0.5590,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+MS006,5283,HCPCS,J2405,0,Facility Fee,"164MS, 163MS, 247MS, 245MS, 244MS, 246MS, 248MS",0.5554,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+MS006,20307,RC,"0272",0,Facility Fee,"245MS, 244MS, 163MS, 164MS, 247MS, 246MS, 248MS",0.5400,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+MS006,68932,HCPCS,J2704,0,Facility Fee,"164MS, 163MS, 247MS, 245MS, 244MS, 246MS, 248MS",0.4890,Intramuscular Injection of 10mg Propofol,1.1
+MS006,55636,HCPCS,J0690,0,Facility Fee,"164MS, 163MS, 247MS, 245MS, 244MS, 246MS, 248MS",0.4821,Intramuscular Injection of 500mg Cefazolin Sodium,1.1
+MS006,104644,HCPCS,J1100,0,Facility Fee,"164MS, 163MS, 247MS, 245MS, 244MS, 246MS, 248MS",0.4718,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+MS006,387,HCPCS,J2250,0,Facility Fee,"247MS, 245MS, 244MS, 246MS, 248MS",0.1459,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+MS006,3219,HCPCS,C1713,0,Facility Fee,"248MS",0.0455,Implantable Anchor/Screw for Bone-to-bone/soft Tissue-to-bone Fixation,1.1
+MS006,74788,RC,"0278",0,Facility Fee,"248MS",0.0429,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Other implants",1.1
+MS006,16612,HCPCS,J1885,0,Facility Fee,"248MS",0.0293,Intramuscular Injection of 15mg Ketorolac Tromethamine,1.1
+MS006,32308,RC,"0270",0,Optional Fee,"246MS, 245MS, 163MS, 164MS, 247MS, 248MS, 244MS",0.3348,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - General",1.1
+MS006,23236,HCPCS,J7120,0,Optional Fee,"248MS",0.0238,Intravenous Infusion of 1000 Cc of Ringer's Lactate Solution,1.1
+MS006,10227,HCPCS,J1170,0,Optional Fee,"248MS",0.0219,"Injection of Hydromorphone, Up to 4 MG",1.1
+MS008,59188,HCPCS,"29914",1,Base Code,"250MS",0.6477,"Arthroscopic Hip Surgery, Including Femoroplasty for Cam Lesion",1.1
+MS008,64324,HCPCS,"29916",1,Base Code,"251MS",0.3522,Arthroscopic Hip Surgery with Labral Tear Repair,1.1
+MS008,103876,DIAG,M25,0,Diagnosis Codes,"250MS",0.3018,"Other joint disorder, not elsewhere classified",1.1
+MS008,21700,DIAG,S73,0,Diagnosis Codes,"251MS",0.1729,Dislocation and sprain of joint and ligaments of hip,1.1
+MS008,105844,RC,"0250",0,Facility Fee,"250MS, 251MS",0.8222,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+MS008,84964,RC,"0710",0,Facility Fee,"251MS, 250MS",0.8041,Recovery Room - General,1.1
+MS008,2595,RC,"0360",0,Facility Fee,"250MS, 251MS",0.8024,Operating Room Services - General,1.1
+MS008,97060,RC,"0370",0,Facility Fee,"250MS, 251MS",0.7663,Anesthesia - General,1.1
+MS008,1587,HCPCS,C1713,0,Facility Fee,"251MS, 250MS",0.7502,Implantable Anchor/Screw for Bone-to-bone/soft Tissue-to-bone Fixation,1.1
+MS008,71284,RC,"0278",0,Facility Fee,"250MS, 251MS",0.6984,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Other implants",1.1
+MS008,10563,RC,"0272",0,Facility Fee,"251MS, 250MS",0.5986,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+MS008,51412,RC,"0636",0,Facility Fee,"251MS, 250MS",0.5831,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+MS008,73540,HCPCS,J2405,0,Facility Fee,"251MS, 250MS",0.5629,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+MS008,32500,HCPCS,J0690,0,Facility Fee,"251MS, 250MS",0.5167,Intramuscular Injection of 500mg Cefazolin Sodium,1.1
+MS008,67876,HCPCS,J3010,0,Facility Fee,"251MS, 250MS",0.5016,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+MS008,53668,HCPCS,J2704,0,Facility Fee,"251MS, 250MS",0.4964,Intramuscular Injection of 10mg Propofol,1.1
+MS008,1299,HCPCS,J2250,0,Facility Fee,"251MS, 250MS",0.4925,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+MS008,44164,HCPCS,J1100,0,Facility Fee,"251MS, 250MS",0.4762,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+MS008,16275,HCPCS,J1170,0,Facility Fee,"251MS",0.1479,"Injection of Hydromorphone, Up to 4 MG",1.1
+MS008,83620,HCPCS,J1885,0,Facility Fee,"251MS",0.1415,Intramuscular Injection of 15mg Ketorolac Tromethamine,1.1
+MS008,61492,RC,"0270",0,Optional Fee,"251MS, 250MS",0.3660,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - General",1.1
+MS008,86548,RC,"0320",0,Optional Fee,"251MS",0.1183,Radiology Diagnostic - General,1.1
+MS008,14788,HCPCS,J0171,0,Optional Fee,"251MS",0.1165,Injection of 0.1mg Epinephrine/Adrenaline into Body,1.1
+MS008,47908,HCPCS,"01214",0,Professional Fee,"251MS, 250MS",0.4455,Anesthesia for Open Hip Joint Arthroplasty,1.1
+OP000,71332,HCPCS,"66984",1,Base Code,"116OP",0.8842,Extracapsular Cataract Removal with Intraocular Lens Insertion,1.1
+OP000,42388,HCPCS,"66982",1,Base Code,"167OP",0.1157,Complex Extracapsular Cataract Removal with Insertion of Iol,1.1
+OP000,45700,DIAG,H25,0,Diagnosis Codes,"116OP, 167OP",0.8689,Age-related cataract,1.1
+OP000,6339,RC,"0360",0,Facility Fee,"167OP, 116OP",0.6116,Operating Room Services - General,1.1
+OP000,77572,RC,"0276",0,Facility Fee,"116OP, 167OP",0.5256,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Intraocular lens",1.1
+OP000,12292,RC,"0250",0,Facility Fee,"116OP, 167OP",0.5170,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+OP000,84724,RC,"0710",0,Facility Fee,"116OP, 167OP",0.4304,Recovery Room - General,1.1
+OP000,61828,RC,"0370",0,Facility Fee,"167OP, 116OP",0.4299,Anesthesia - General,1.1
+OP000,20932,HCPCS,V2632,0,Facility Fee,"167OP",0.0575,Replacement of Natural Lens with Artificial Lens in Back of Eye,1.1
+OP000,77524,RC,"0636",0,Facility Fee,"167OP",0.0548,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+OP000,114820,RC,"0636",0,Optional Fee,"116OP",0.3165,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+OP000,76228,RC,"0272",0,Optional Fee,"167OP",0.0442,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+OP000,435,HCPCS,J2250,0,Optional Fee,"167OP",0.0387,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+OP000,99268,HCPCS,"00145",0,Professional Fee,"116OP, 167OP",0.4341,Otolaryngology Surgical Procedures without Major Complications,1.1
+PU000,84580,HCPCS,"31624",1,Base Code,"115PU",0.5635,"Rigid/flexible Bronchoscopy, Including Fluoroscopy & Bronchial Alveolar Lavage",1.1
+PU000,64516,HCPCS,"31622",1,Base Code,"113PU",0.2509,"Diagnostic Bronchoscopy with Fluoroscopy, Cell Washing",1.1
+PU000,99892,HCPCS,"31623",1,Base Code,"114PU",0.1108,"Rigid or Flexible Bronchoscopy with Fluoroscopic Guidance, Including Brushing or Protected Brushings",1.1
+PU000,21315,HCPCS,"31625",1,Base Code,"116PU",0.0747,Flexible or Rigid Bronchoscopy with Fluoroscopic Guidance and Endobronchial Biopsy(s),1.1
+PU000,44500,DIAG,R91,0,Diagnosis Codes,"115PU, 114PU, 116PU",0.1525,Abnormal findings on diagnostic imaging of lung,1.1
+PU000,49156,DIAG,C34,0,Diagnosis Codes,"114PU, 116PU",0.0383,Malignant neoplasm of bronchus and lung,1.1
+PU000,97588,DIAG,J98,0,Diagnosis Codes,"113PU",0.0223,Other respiratory disorders,1.1
+PU000,90148,RC,"0250",0,Facility Fee,"114PU, 113PU, 115PU, 116PU",0.7720,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+PU000,81220,RC,"0636",0,Facility Fee,"114PU, 113PU, 115PU, 116PU",0.7276,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+PU000,13299,RC,"0710",0,Facility Fee,"116PU, 114PU, 113PU, 115PU",0.6905,Recovery Room - General,1.1
+PU000,53332,RC,"0370",0,Facility Fee,"116PU, 115PU, 113PU, 114PU",0.6875,Anesthesia - General,1.1
+PU000,90868,HCPCS,J2704,0,Facility Fee,"113PU, 114PU, 116PU, 115PU",0.5968,Intramuscular Injection of 10mg Propofol,1.1
+PU000,102100,HCPCS,"87188",0,Facility Fee,"115PU",0.5635,Susceptibility Testing of Antimicrobials by Macrobroth Dilution,1.1
+PU000,81652,HCPCS,"88161",0,Facility Fee,"115PU",0.5466,Microscopically Examine Smears From Various Sources for Diagnosis,1.1
+PU000,86788,HCPCS,J3010,0,Facility Fee,"113PU, 114PU, 116PU, 115PU",0.5443,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+PU000,10228,RC,"0306",0,Facility Fee,"115PU, 114PU",0.4132,Laboratory - Bacteriology and Microbiology,1.1
+PU000,103828,RC,"0311",0,Facility Fee,"116PU, 115PU, 114PU",0.3400,Laboratory Pathology - Cytology,1.1
+PU000,19155,RC,"0300",0,Facility Fee,"115PU, 114PU",0.2899,Laboratory - General,1.1
+PU000,66340,HCPCS,"87086",0,Facility Fee,"113PU",0.2506,Quantitative Analysis of Bacterial Colonies in Urine Culture,1.1
+PU000,15747,RC,"0360",0,Facility Fee,"116PU, 113PU",0.1567,Operating Room Services - General,1.1
+PU000,30916,HCPCS,"81001",0,Facility Fee,"114PU",0.1108,Automated Urinalysis with Dip Stick/Tablet Reagent and Microscopy,1.1
+PU000,49300,RC,"0272",0,Facility Fee,"114PU, 116PU",0.1012,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+PU000,109012,HCPCS,J1100,0,Facility Fee,"114PU, 116PU",0.0800,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+PU000,64228,HCPCS,"88361",0,Facility Fee,"116PU",0.0353,Computer-assisted Tumor Analysis Through Antibody Staining for Specific Receptors,1.1
+PU000,82948,RC,"0310",0,Facility Fee,"116PU",0.0326,Laboratory Pathology - General,1.1
+PU000,31108,RC,"0312",0,Facility Fee,"116PU",0.0306,Laboratory Pathology - Histology,1.1
+PU000,72292,RC,"0272",0,Optional Fee,"115PU, 113PU",0.2855,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+PU000,5763,RC,"0360",0,Optional Fee,"114PU, 115PU",0.2618,Operating Room Services - General,1.1
+PU000,108052,RC,"0310",0,Optional Fee,"114PU, 115PU",0.2196,Laboratory Pathology - General,1.1
+PU000,20644,HCPCS,"88160",0,Optional Fee,"115PU",0.1898,Cell Analysis From Samples for Disease Detection and Interpretation,1.1
+PU000,21603,HCPCS,J2405,0,Optional Fee,"113PU",0.0963,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+PU000,66676,HCPCS,"88334",0,Optional Fee,"113PU, 116PU",0.0913,"Examining Additional Sites During Pathology Consultation During Surgery; Additional Cytologic Examination Codes (eg, Touch Prep, Squash Prep)",1.1
+PU000,15987,HCPCS,J2250,0,Optional Fee,"113PU",0.0901,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+PU000,20404,RC,"0312",0,Optional Fee,"114PU",0.0336,Laboratory Pathology - Histology,1.1
+PU000,75076,RC,"0306",0,Optional Fee,"116PU",0.0253,Laboratory - Bacteriology and Microbiology,1.1
+PU000,17476,HCPCS,"88341",0,Optional Fee,"116PU",0.0251,Antibody Staining Procedure for Existing Histochemistry Specimen,1.1
+PU000,23427,RC,"0300",0,Optional Fee,"116PU",0.0249,Laboratory - General,1.1
+RA000,26788,HCPCS,"71046",1,Base Code,"166RA",0.2254,Radiographic Imaging of Chest; Two Projections,1.1
+RA000,30676,HCPCS,"71045",1,Base Code,"165RA",0.1690,Radiograph of Chest for Viewing Single Structure,1.1
+RA000,19539,HCPCS,"73630",1,Base Code,"231RA",0.0517,"Radiologic Imaging of Foot, 3+ Views",1.1
+RA000,103684,HCPCS,"73030",1,Base Code,"204RA",0.0464,"2d X-ray Imaging of Shoulder for Diagnosis",1.1
+RA000,25828,HCPCS,"72100",1,Base Code,"184RA",0.0416,X-ray Imaging of Lower Back From 2-3 Angles,1.1
+RA000,11139,HCPCS,"73610",1,Base Code,"229RA",0.0410,Radiologic Ankle Imaging with 3 Views,1.1
+RA000,72484,HCPCS,"74018",1,Base Code,"243RA",0.0360,Radiography of Abdomen with 1 Image,1.1
+RA000,9124,HCPCS,"73562",1,Base Code,"222RA",0.0347,Radiography of Knee with 3 Imaging Views,1.1
+RA000,65668,HCPCS,"73502",1,Base Code,"442RA",0.0325,"Radiographic Evaluation of Hip with Pelvis on 1 Side, 2-3 Images",1.1
+RA000,32596,HCPCS,"73130",1,Base Code,"212RA",0.0315,"X-ray Imaging of the Hand, Requiring 3 Views",1.1
+RA000,26020,HCPCS,"73564",1,Base Code,"223RA",0.0313,Knee X-ray 4+ Views for Comprehensive Evaluation,1.1
+RA000,95284,HCPCS,"73110",1,Base Code,"210RA",0.0269,"Radiological Imaging of Wrist, 3+ Views",1.1
+RA000,627,HCPCS,"73560",1,Base Code,"221RA",0.0211,"X-ray Imaging of Knee, One or Two Views",1.1
+RA000,10035,HCPCS,"72110",1,Base Code,"120RA",0.0209,X-ray Imaging of Lower Spine From 4 Angles,1.1
+RA000,81076,HCPCS,"72040",1,Base Code,"176RA",0.0183,"Radiographic Imaging of the Neck Spine, Two to Three Views",1.1
+RA000,31876,HCPCS,"73140",1,Base Code,"213RA",0.0157,Radiographic Imaging of Finger(s) with 2 or More Views,1.1
+RA000,21364,HCPCS,"72050",1,Base Code,"177RA",0.0144,Radiologic Examination of Cervical Spine in 4-5 Views,1.1
+RA000,67156,HCPCS,"73080",1,Base Code,"206RA",0.0127,Three-view Radiologic Imaging of Elbow,1.1
+RA000,58468,HCPCS,"73590",1,Base Code,"226RA",0.0119,"2-view X-ray of Tibia and Fibula",1.1
+RA000,88660,HCPCS,"72170",1,Base Code,"197RA",0.0094,X-ray Imaging of the Pelvic Region From One or Two Angles,1.1
+RA000,98932,HCPCS,"73090",1,Base Code,"207RA",0.0084,"Radiologic Imaging of Forearm, Two-angle Views",1.1
+RA000,54436,HCPCS,"72082",1,Base Code,"181RA",0.0079,"Radiologic Scan of Full Spine From Skull to Sacrum, 2-3 Views",1.1
+RA000,9363,HCPCS,"72070",1,Base Code,"178RA",0.0073,Two-view Radiographic Imaging of Thoracic Spine,1.1
+RA000,24628,HCPCS,"72072",1,Base Code,"179RA",0.0060,"X-ray Imaging of Thoracic Spine, 3 View Angles",1.1
+RA000,772,HCPCS,"73070",1,Base Code,"205RA",0.0050,"Radiologic Imaging of Elbow, Two-view Series",1.1
+RA000,95236,HCPCS,"73100",1,Base Code,"209RA",0.0050,X-ray of Wrist in Two Positions,1.1
+RA000,56788,HCPCS,"73660",1,Base Code,"233RA",0.0048,"Radiography of Two or More Toes, Minimum of Two Views",1.1
+RA000,63892,HCPCS,"73000",1,Base Code,"203RA",0.0045,X-ray Imaging of Both Clavicles,1.1
+RA000,7012,HCPCS,"73521",1,Base Code,"218RA",0.0040,"Bilateral Hip Radiography with Pelvis, 2 Views",1.1
+RA000,19924,HCPCS,"73120",1,Base Code,"211RA",0.0040,Radiographic Imaging of Hands in Two Projections,1.1
+RA000,39028,HCPCS,"74022",1,Base Code,"245RA",0.0040,"X-ray of Abdomen and Chest, Multiple Angles",1.1
+RA000,10324,HCPCS,"70360",1,Base Code,"150RA",0.0037,Soft Tissue Radiologic Neck Imaging,1.1
+RA000,98836,HCPCS,"73620",1,Base Code,"230RA",0.0036,"Radiograph of Feet, Two Projection Angles",1.1
+RA000,75988,HCPCS,"73522",1,Base Code,"219RA",0.0035,"Bilateral Hip Radiograph with Pelvis, 3-4 Views",1.1
+RA000,38164,HCPCS,"72081",1,Base Code,"180RA",0.0033,"Radiologic Spine Thoracic Through Sacral Imaging, Including Skull, 1 View",1.1
+RA000,106996,HCPCS,"73600",1,Base Code,"228RA",0.0032,Radiographic Imaging of Ankle Using Two Angles,1.1
+RA000,7539,HCPCS,"72114",1,Base Code,"185RA",0.0029,Radiology Imaging of Lumbosacral Spine with 6 Views During Bending,1.1
+RA000,29044,HCPCS,"73523",1,Base Code,"220RA",0.0028,"Bilateral Hip Radiographic Imaging with Pelvis, 5+ Views",1.1
+RA000,8643,HCPCS,"77073",1,Base Code,"299RA",0.0024,Radiographic Measurement of Bone Length,1.1
+RA000,18148,HCPCS,"72220",1,Base Code,"126RA",0.0022,Radiologic Imaging of Sacrum and Coccyx with 2+ Views,1.1
+RA000,63988,HCPCS,"73501",1,Base Code,"217RA",0.0020,"X-ray of Hip and Pelvis, One View, Unilateral",1.1
+RA000,98260,HCPCS,"72020",1,Base Code,"175RA",0.0019,Single View Spine Radiograph at Specified Level,1.1
+RA000,11187,HCPCS,"73650",1,Base Code,"232RA",0.0015,Radiography of the Calcaneus Bones in at Least Two Views,1.1
+RA000,36148,HCPCS,"72190",1,Base Code,"198RA",0.0014,"Radiologic Examination of Pelvis, 3-view Imaging Study",1.1
+RA000,113284,HCPCS,"73020",1,Base Code,"128RA",0.0012,"X-ray of Shoulder Joint, 1 Image Taken",1.1
+RA000,57556,HCPCS,"72120",1,Base Code,"186RA",0.0012,Two or Three Radiographic Spine Bending Views of Lumbosacral Area,1.1
+RA000,27604,HCPCS,"74021",1,Base Code,"244RA",0.0011,Radiologic Imaging of Abdomen with 3+ Views,1.1
+RA000,49492,HCPCS,"73565",1,Base Code,"224RA",0.0011,Standing Anteroposterior Radiologic Knee Examination of Both Knees,1.1
+RA000,24724,HCPCS,"71111",1,Base Code,"168RA",0.0009,Bilateral Rib Radiologic Examination with Pa Chest and 4 Views,1.1
+RA000,60724,HCPCS,"72080",1,Base Code,"119RA",0.0009,"X-ray Imaging of Thoracolumbar Spine, Minimum of 2 Views",1.1
+RA000,19492,HCPCS,"72083",1,Base Code,"182RA",0.0005,Radiography of Cranio-cervicothoraco-lumbosacral Spine with 4-5 Views,1.1
+RA000,85924,HCPCS,"76010",1,Base Code,"138RA",0.0004,Radiologic Imaging of Kid to Locate Foreign Body in Nose-rectum,1.1
+RA000,12772,HCPCS,"70260",1,Base Code,"147RA",0.0004,Radiography of Skull Using at Least 4 Views,1.1
+RA000,22420,HCPCS,"72084",1,Base Code,"183RA",0.0004,"Radiographic Imaging of Skull to Sacrum of Spine, Minimum 6 Views",1.1
+RA000,110500,HCPCS,"71120",1,Base Code,"169RA",0.0003,Digital X-ray Imaging of Sternum From Multiple Angles,1.1
+RA000,46804,HCPCS,"71047",1,Base Code,"167RA",0.0002,Radiography of Chest Using Three X-ray Views,1.1
+RA000,108484,HCPCS,"70200",1,Base Code,"101RA",0.0002,Radiographic Imaging of the Orbital Region with at Least 4 Views,1.1
+RA000,78676,HCPCS,"71048",1,Base Code,"113RA",0.0002,X-ray Imaging of Chest with 4+ Views,1.1
+RA000,17524,HCPCS,"70330",1,Base Code,"148RA",0.0001,"Radiologic Exam of Tmj in Open and Closed Position, Both Sides",1.1
+RA000,20692,HCPCS,"70100",1,Base Code,"100RA",0.0001,"Radiographic Examination of Partial Mandible, Fewer than Four Views",1.1
+RA000,109492,HCPCS,"70140",1,Base Code,"146RA",0.0001,Radiography of Facial Bones Using Less than 3 Views,1.1
+RA000,436,HCPCS,"73592",1,Base Code,"227RA",0.0000,"Radiography of Infant Lower Extremity, Min. 2 Views",1.1
+RA000,65044,HCPCS,"77076",1,Base Code,"300RA",0.0000,Radiological Imaging to Examine Bones of Infant,1.1
+RA000,16420,HCPCS,"73092",1,Base Code,"208RA",0.0000,"X-ray Imaging of Infant Arms, Minimum of 2 Views",1.1
+RA000,72148,HCPCS,"71130",1,Base Code,"170RA",0.0000,X-ray Imaging of Sternoclavicular Joints From 3 Angles,1.1
+RA000,67348,DIAG,M25,0,Diagnosis Codes,"229RA, 220RA, 219RA, 217RA, 204RA, 203RA, 170RA, 218RA, 211RA, 206RA, 128RA, 198RA, 209RA, 224RA, 299RA, 223RA, 221RA, 228RA, 205RA, 197RA, 222RA, 442RA, 210RA",0.1209,"Other joint disorder, not elsewhere classified",1.1
+RA000,85156,DIAG,M54,0,Diagnosis Codes,"178RA, 176RA, 182RA, 184RA, 175RA, 120RA, 119RA, 179RA, 186RA, 183RA, 177RA, 126RA, 185RA, 181RA",0.0476,Dorsalgia,1.1
+RA000,9891,DIAG,R05,0,Diagnosis Codes,"166RA, 167RA, 113RA",0.0451,Cough,1.1
+RA000,18100,DIAG,M79,0,Diagnosis Codes,"227RA, 211RA, 207RA, 231RA, 208RA, 230RA, 212RA, 213RA, 228RA, 233RA, 226RA, 232RA",0.0432,"Oth and unsp soft tissue disorders, not elsewhere classified",1.1
+RA000,100900,DIAG,R07,0,Diagnosis Codes,"169RA, 168RA, 165RA",0.0365,Pain in throat and chest,1.1
+RA000,6580,DIAG,M17,0,Diagnosis Codes,"299RA, 224RA, 223RA, 221RA, 222RA",0.0163,Osteoarthritis of knee,1.1
+RA000,13252,DIAG,S52,0,Diagnosis Codes,"205RA, 210RA, 206RA, 207RA, 209RA",0.0138,Fracture of forearm,1.1
+RA000,104020,DIAG,M47,0,Diagnosis Codes,"120RA, 186RA, 177RA, 185RA, 176RA, 184RA",0.0121,Spondylosis,1.1
+RA000,11476,DIAG,N20,0,Diagnosis Codes,"243RA, 244RA",0.0120,Calculus of kidney and ureter,1.1
+RA000,7876,DIAG,S82,0,Diagnosis Codes,"226RA, 229RA, 228RA",0.0105,"Fracture of lower leg, including ankle",1.1
+RA000,29764,DIAG,R10,0,Diagnosis Codes,"243RA, 244RA, 245RA",0.0084,Abdominal and pelvic pain,1.1
+RA000,74644,DIAG,S62,0,Diagnosis Codes,"213RA, 212RA",0.0079,Fracture at wrist and hand level,1.1
+RA000,42052,DIAG,M16,0,Diagnosis Codes,"442RA, 220RA, 219RA, 217RA, 218RA",0.0068,Osteoarthritis of hip,1.1
+RA000,11572,DIAG,S92,0,Diagnosis Codes,"231RA, 233RA, 232RA",0.0067,"Fracture of foot and toe, except ankle",1.1
+RA000,820,DIAG,M19,0,Diagnosis Codes,"211RA, 204RA, 128RA",0.0065,Other and unspecified osteoarthritis,1.1
+RA000,36100,DIAG,K59,0,Diagnosis Codes,"243RA, 244RA, 245RA",0.0065,Other functional intestinal disorders,1.1
+RA000,3748,DIAG,M41,0,Diagnosis Codes,"182RA, 180RA, 183RA, 181RA",0.0063,Scoliosis,1.1
+RA000,45844,DIAG,S93,0,Diagnosis Codes,"229RA",0.0050,"Disloc & sprain of joints & ligaments at ankl, ft & toe lev",1.1
+RA000,1443,DIAG,S42,0,Diagnosis Codes,"203RA, 205RA",0.0035,Fracture of shoulder and upper arm,1.1
+RA000,58228,DIAG,S69,0,Diagnosis Codes,"213RA",0.0021,"Other and unspecified injuries of wrist, hand and finger(s)",1.1
+RA000,83284,DIAG,Q65,0,Diagnosis Codes,"197RA",0.0010,Congenital deformities of hip,1.1
+RA000,41044,DIAG,M53,0,Diagnosis Codes,"126RA",0.0010,"Other and unspecified dorsopathies, not elsewhere classified",1.1
+RA000,103972,DIAG,J35,0,Diagnosis Codes,"150RA",0.0007,Chronic diseases of tonsils and adenoids,1.1
+RA000,95524,DIAG,S99,0,Diagnosis Codes,"233RA",0.0007,Other and unspecified injuries of ankle and foot,1.1
+RA000,19348,DIAG,M21,0,Diagnosis Codes,"299RA",0.0006,Other acquired deformities of limbs,1.1
+RA000,103492,DIAG,M51,0,Diagnosis Codes,"175RA, 185RA",0.0006,"Thoracic, thoracolum, and lumbosacral intvrt disc disorders",1.1
+RA000,34468,DIAG,S32,0,Diagnosis Codes,"198RA",0.0005,Fracture of lumbar spine and pelvis,1.1
+RA000,111892,DIAG,R06,0,Diagnosis Codes,"150RA",0.0005,Abnormalities of breathing,1.1
+RA000,106516,DIAG,M48,0,Diagnosis Codes,"175RA",0.0004,Other spondylopathies,1.1
+RA000,23524,DIAG,T18,0,Diagnosis Codes,"138RA",0.0002,Foreign body in alimentary tract,1.1
+RA000,7443,DIAG,M77,0,Diagnosis Codes,"232RA",0.0001,Other enthesopathies,1.1
+RA000,40708,DIAG,M43,0,Diagnosis Codes,"186RA",0.0001,Other deforming dorsopathies,1.1
+RA000,20020,DIAG,S22,0,Diagnosis Codes,"119RA",0.0001,"Fracture of rib(s), sternum and thoracic spine",1.1
+RA000,52996,DIAG,S49,0,Diagnosis Codes,"208RA",0.0000,Other and unspecified injuries of shoulder and upper arm,1.1
+RA000,20548,DIAG,Z03,0,Diagnosis Codes,"138RA",0.0000,Encntr for medical obs for susp diseases and cond ruled out,1.1
+RA000,33172,DIAG,R68,0,Diagnosis Codes,"148RA, 100RA",0.0000,Other general symptoms and signs,1.1
+RA000,34708,DIAG,R26,0,Diagnosis Codes,"227RA",0.0000,Abnormalities of gait and mobility,1.1
+RA000,106660,DIAG,S09,0,Diagnosis Codes,"146RA, 147RA",0.0000,Other and unspecified injuries of head,1.1
+RA000,20884,DIAG,S05,0,Diagnosis Codes,"101RA",0.0000,Injury of eye and orbit,1.1
+RA000,99796,DIAG,Z01,0,Diagnosis Codes,"113RA",0.0000,"Encntr for oth sp exam w/o complaint, suspected or reprtd dx",1.1
+RA000,22612,DIAG,T74,0,Diagnosis Codes,"300RA",0.0000,"Adult and child abuse, neglect and oth maltreat, confirmed",1.1
+RA000,100132,DIAG,S00,0,Diagnosis Codes,"146RA",0.0000,Superficial injury of head,1.1
+RA000,63460,DIAG,T76,0,Diagnosis Codes,"300RA",0.0000,"Adult and child abuse, neglect and oth maltreat, suspected",1.1
+RA000,101572,DIAG,M26,0,Diagnosis Codes,"148RA",0.0000,Dentofacial anomalies [including malocclusion],1.1
+RA000,86452,RC,"0320",0,Facility Fee,"181RA, 180RA, 100RA, 175RA, 208RA, 178RA, 146RA, 198RA, 138RA, 170RA, 211RA, 204RA, 244RA, 300RA, 119RA, 128RA, 212RA, 220RA, 210RA, 223RA, 218RA, 205RA, 176RA, 221RA, 120RA, 243RA, 185RA, 182RA, 222RA, 231RA, 224RA, 213RA, 233RA, 177RA, 168RA, 219RA, 230RA, 183RA, 203RA, 126RA, 232RA, 217RA, 169RA, 184RA, 209RA, 228RA, 113RA, 227RA, 101RA, 442RA, 299RA, 229RA, 186RA, 245RA, 197RA, 207RA, 150RA, 147RA, 226RA, 206RA, 148RA, 179RA",0.5188,Radiology Diagnostic - General,1.1
+RA000,111844,RC,"0324",0,Facility Fee,"165RA, 167RA, 166RA",0.2339,Radiology Diagnostic - Chest X-ray,1.1
+RA000,43924,HCPCS,"85045",0,Facility Fee,"245RA, 165RA",0.1299,Automated Reticulocyte Cell Count of the Blood,1.1
+RA000,6436,RC,"0450",0,Facility Fee,"165RA",0.0904,Emergency Room - General,1.1
+RA000,96100,RC,"0301",0,Facility Fee,"245RA, 165RA",0.0897,Laboratory - Chemistry,1.1
+RA000,85444,HCPCS,"84484",0,Facility Fee,"165RA",0.0836,"Quantitative Measurement of Cardiac Muscle Protein, Troponin",1.1
+RA000,104356,RC,"0730",0,Facility Fee,"165RA",0.0792,EKG/ECG Electrocardiogram - General,1.1
+RA000,93316,RC,"0305",0,Facility Fee,"165RA",0.0770,Laboratory - Hematology,1.1
+RA000,1635,RC,"0300",0,Facility Fee,"165RA, 245RA",0.0728,Laboratory - General,1.1
+RA000,52948,HCPCS,"76830",0,Facility Fee,"184RA",0.0189,Ultrasound Imaging of Pelvic Organs Using Transvaginal Approach,1.1
+RA000,35812,HCPCS,"80050",0,Facility Fee,"197RA",0.0062,"Comprehensive Metabolic Panel, Cbc, Automated Differential Wbc Count, Tsh",1.1
+RA000,12004,HCPCS,"85730",0,Facility Fee,"178RA",0.0032,Coagulation Measurement for Clotting Time in Blood Plasma or Whole Blood,1.1
+RA000,23620,HCPCS,"90471",0,Facility Fee,"179RA",0.0026,"Injection of 1 Vaccine or Combination Subcutaneously, Intramuscularly, Intradermally, or Percutaneously",1.1
+RA000,80788,HCPCS,"87631",0,Facility Fee,"150RA",0.0022,Multiplex Reverse Transcription and Amplified Probe Technique for Detecting 3-5 Targets of Respiratory Viruses,1.1
+RA000,4755,HCPCS,"76705",0,Facility Fee,"175RA",0.0019,Real-time Abdominal Ultrasound with Limited Imaging Documentation,1.1
+RA000,94900,RC,"0250",0,Facility Fee,"128RA, 175RA",0.0018,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+RA000,14115,RC,"0636",0,Facility Fee,"175RA, 128RA",0.0017,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+RA000,85492,RC,"0710",0,Facility Fee,"175RA, 128RA",0.0015,Recovery Room - General,1.1
+RA000,4660,RC,"0370",0,Facility Fee,"175RA, 128RA",0.0014,Anesthesia - General,1.1
+RA000,6291,RC,"0360",0,Facility Fee,"175RA, 128RA",0.0013,Operating Room Services - General,1.1
+RA000,25204,HCPCS,J2704,0,Facility Fee,"175RA, 128RA",0.0012,Intramuscular Injection of 10mg Propofol,1.1
+RA000,29716,RC,"0278",0,Facility Fee,"128RA",0.0005,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Other implants",1.1
+RA000,39652,HCPCS,"77065",0,Facility Fee,"300RA",0.0000,"Diagnostic Mammography with Cad, Unilateral Workup",1.1
+RA000,11092,HCPCS,"72158",0,Facility Fee,"146RA",0.0000,"MRI (proton) Spine with and without Contrast, Lumbar",1.1
+RA000,3123,HCPCS,"80047",0,Facility Fee,"100RA",0.0000,"Lab Test for Electrolyte, Metabolic, and Glucose Levels (, , , , , , , )",1.1
+RA000,42004,HCPCS,"82533",0,Facility Fee,"170RA",0.0000,Chemically Reacted Serum Cortisol Quantitation,1.1
+RA000,69364,RC,"0250",0,Optional Fee,"165RA",0.0630,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+RA000,24771,HCPCS,"87015",0,Optional Fee,"165RA",0.0606,Quantitative Detection of Infectious Agents by Concentration Method,1.1
+RA000,68116,HCPCS,"77080",0,Optional Fee,"176RA",0.0069,"Dxa Scan of Axial Skeleton (hips, Pelvis, Spine) for Bone Density",1.1
+RA000,39892,HCPCS,"76700",0,Optional Fee,"120RA",0.0068,Real-time Imaging of Abdomen with Image Documentation,1.1
+RA000,28468,HCPCS,"72148",0,Optional Fee,"177RA",0.0045,Proton MRI of Lumbar Spine without Contrast Material,1.1
+RA000,13923,HCPCS,"36415",0,Optional Fee,"245RA",0.0014,Collection of Blood From a Vein via Puncture,1.1
+RA000,6340,HCPCS,"81015",0,Optional Fee,"245RA",0.0014,Examination of Urine Under Microscope for Abnormalities,1.1
+RA000,71428,RC,"0305",0,Optional Fee,"245RA",0.0013,Laboratory - Hematology,1.1
+RA000,43828,RC,"0450",0,Optional Fee,"138RA, 245RA",0.0013,Emergency Room - General,1.1
+RA000,79924,HCPCS,J0690,0,Optional Fee,"175RA, 128RA",0.0012,Intramuscular Injection of 500mg Cefazolin Sodium,1.1
+RA000,114532,RC,"0272",0,Optional Fee,"175RA, 128RA",0.0011,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+RA000,11523,HCPCS,J2250,0,Optional Fee,"175RA, 128RA",0.0011,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+RA000,19300,HCPCS,"50590",0,Optional Fee,"198RA",0.0005,High Intensity Acoustic Wave Fragments Stones Outside the Body,1.1
+RA000,101812,HCPCS,C1776,0,Optional Fee,"128RA",0.0004,Implantable Joint Device for Motion Restoration,1.1
+RA000,115012,HCPCS,C1713,0,Optional Fee,"128RA",0.0004,Implantable Anchor/Screw for Bone-to-bone/soft Tissue-to-bone Fixation,1.1
+RA000,11284,HCPCS,J2405,0,Optional Fee,"128RA",0.0004,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+RA000,104740,HCPCS,J1100,0,Optional Fee,"128RA",0.0004,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+RA000,88900,HCPCS,J3010,0,Optional Fee,"128RA",0.0004,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+RA000,29956,HCPCS,"85049",0,Optional Fee,"128RA",0.0003,Automated Count of Blood Platelet Level,1.1
+RA000,771,RC,"0300",0,Optional Fee,"128RA",0.0003,Laboratory - General,1.1
+RA000,35524,HCPCS,"99285",0,Optional Fee,"119RA",0.0003,Ed Visit for Complex Medical Decision-making Involving History/Exam/counseling,1.1
+RA000,61636,HCPCS,"80307",0,Optional Fee,"169RA",0.0001,"Chemistry/chromatography/mass Spectrometry to Detect Any Number of Drugs Using Any Device/Procedure, Sample Validation if Performed",1.1
+RA000,3652,HCPCS,"92507",0,Optional Fee,"147RA",0.0001,Comprehensive Individual Treatment of Communication Disorders,1.1
+RA000,49540,HCPCS,"80074",0,Optional Fee,"101RA",0.0000,"Acute Hepatitis Panel: Haab, Hbcab, Hbsag, and Hcv Ab Testing",1.1
+RA000,3795,RC,"0324",0,Optional Fee,"113RA",0.0000,Radiology Diagnostic - Chest X-ray,1.1
+RE003,43780,HCPCS,"58563",1,Base Code,"125RE",0.7029,Surgical Hysteroscopy with Endometrial Ablation,1.1
+RE003,36532,HCPCS,"58561",1,Base Code,"143RE",0.2965,Hysteroscopy with Endoscopic Resection of Uterine Leiomyomata,1.1
+RE003,106804,HCPCS,"58565",1,Base Code,"126RE",0.0004,Hysteroscopy with Bilateral Tubal Occlusion by Permanent Implant Placement,1.1
+RE003,53140,DIAG,N92,0,Diagnosis Codes,"126RE, 125RE",0.3439,"Excessive, frequent and irregular menstruation",1.1
+RE003,77956,DIAG,D25,0,Diagnosis Codes,"143RE",0.2099,Leiomyoma of uterus,1.1
+RE003,54916,DIAG,N93,0,Diagnosis Codes,"125RE, 126RE",0.1455,Other abnormal uterine and vaginal bleeding,1.1
+RE003,63604,DIAG,N95,0,Diagnosis Codes,"126RE",0.0000,Menopausal and other perimenopausal disorders,1.1
+RE003,95428,RC,"0710",0,Facility Fee,"126RE, 125RE, 143RE",0.9317,Recovery Room - General,1.1
+RE003,4612,RC,"0370",0,Facility Fee,"143RE, 125RE, 126RE",0.8738,Anesthesia - General,1.1
+RE003,71764,RC,"0250",0,Facility Fee,"125RE, 143RE, 126RE",0.8532,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+RE003,86596,HCPCS,J3010,0,Facility Fee,"143RE, 126RE, 125RE",0.8283,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+RE003,17091,HCPCS,J2405,0,Facility Fee,"143RE, 126RE, 125RE",0.8164,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+RE003,2643,RC,"0360",0,Facility Fee,"143RE, 125RE, 126RE",0.8110,Operating Room Services - General,1.1
+RE003,90916,HCPCS,J2704,0,Facility Fee,"143RE, 126RE, 125RE",0.7909,Intramuscular Injection of 10mg Propofol,1.1
+RE003,18724,RC,"0636",0,Facility Fee,"126RE, 125RE, 143RE",0.7712,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+RE003,15940,RC,"0272",0,Facility Fee,"126RE, 143RE, 125RE",0.7355,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+RE003,339,HCPCS,J2250,0,Facility Fee,"143RE, 126RE, 125RE",0.7311,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+RE003,61300,HCPCS,J1100,0,Facility Fee,"143RE, 126RE, 125RE",0.7025,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+RE003,28036,HCPCS,J1885,0,Facility Fee,"143RE, 126RE, 125RE",0.6287,Intramuscular Injection of 15mg Ketorolac Tromethamine,1.1
+RE003,54100,HCPCS,"81000",0,Facility Fee,"125RE",0.5426,"Non-automated Urinalysis, Testing for 10 Chemical Constituents with Microscopy",1.1
+RE003,89668,HCPCS,J7120,0,Facility Fee,"143RE, 125RE",0.4174,Intravenous Infusion of 1000 Cc of Ringer's Lactate Solution,1.1
+RE003,9508,HCPCS,"88302",0,Facility Fee,"143RE, 126RE",0.2682,"Gross/microscopic Pathology Examination for Appendectomy, Traumatic Amputations, Hydrocelectomy, Nerve Incision, Plastic Skin Repair, Castration, and Vasectomy",1.1
+RE003,34516,RC,"0310",0,Facility Fee,"126RE",0.0003,Laboratory Pathology - General,1.1
+RE003,4900,RC,"0258",0,Facility Fee,"126RE",0.0003,"Pharmacy (Also see 063X, an extension of 250X) - IV solutions",1.1
+RE003,4179,RC,"0300",0,Facility Fee,"126RE",0.0001,Laboratory - General,1.1
+RE003,109204,RC,"0270",0,Optional Fee,"125RE, 143RE",0.3455,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - General",1.1
+RE003,54580,RC,"0258",0,Optional Fee,"125RE",0.2108,"Pharmacy (Also see 063X, an extension of 250X) - IV solutions",1.1
+RE003,106612,HCPCS,"81025",0,Optional Fee,"143RE",0.1168,Visual Comparison of Urine to Detect Pregnancy,1.1
+RE003,103732,RC,"0312",0,Optional Fee,"143RE",0.1109,Laboratory Pathology - Histology,1.1
+RE003,57748,RC,"0310",0,Optional Fee,"143RE",0.1002,Laboratory Pathology - General,1.1
+RE003,46228,HCPCS,J0131,0,Optional Fee,"126RE",0.0001,Injection of Acetaminophen 10mg per Dose,1.1
+RE003,88276,HCPCS,"00940",0,Professional Fee,"143RE, 125RE",0.4203,Anesthesia for Unspecified Vaginal Procedures,1.1
+RE004,98020,HCPCS,"58661",1,Base Code,"128RE",0.6181,Minimally Invasive Removal of Ovarian and/or Fallopian Tube Structures,1.1
+RE004,8644,HCPCS,"58662",1,Base Code,"118OB",0.2897,"Minimally Invasive Laparoscopic Surgery to Remove Tissue From Ovaries, Pelvic Organs or Abdominal Wall",1.1
+RE004,67108,HCPCS,"58670",1,Base Code,"129RE",0.0670,"Laparoscopic Oviduct Fulguration, Possibly with Transection",1.1
+RE004,17908,HCPCS,"58671",1,Base Code,"130RE",0.0250,Laparoscopic Occlusion of Oviducts with Device,1.1
+RE004,3988,DIAG,Z30,0,Diagnosis Codes,"128RE, 129RE, 130RE",0.3739,Encounter for contraceptive management,1.1
+RE004,63412,DIAG,N83,0,Diagnosis Codes,"128RE, 118OB",0.1496,"Noninflammatory disord of ovary, fallop and broad ligament",1.1
+RE004,37588,DIAG,D27,0,Diagnosis Codes,"128RE, 118OB",0.1155,Benign neoplasm of ovary,1.1
+RE004,108964,DIAG,N80,0,Diagnosis Codes,"118OB",0.1066,Endometriosis,1.1
+RE004,114196,RC,"0710",0,Facility Fee,"118OB, 129RE, 128RE, 130RE",0.9496,Recovery Room - General,1.1
+RE004,107476,RC,"0250",0,Facility Fee,"130RE, 128RE, 129RE, 118OB",0.9131,"Pharmacy (Also see 063X, an extension of 250X) - General",1.1
+RE004,6724,RC,"0370",0,Facility Fee,"130RE, 129RE, 128RE, 118OB",0.8821,Anesthesia - General,1.1
+RE004,1731,HCPCS,J2405,0,Facility Fee,"130RE, 118OB, 129RE, 128RE",0.8785,"Intramuscular Injection of Ondansetron Hydrochloride, 1mg",1.1
+RE004,11619,HCPCS,J3010,0,Facility Fee,"130RE, 118OB, 129RE, 128RE",0.8616,Intramuscular Injection of Fentanyl Citrate 0.1mg,1.1
+RE004,34132,HCPCS,J1100,0,Facility Fee,"130RE, 118OB, 129RE, 128RE",0.8244,Intramuscular Injection of 1mg Dexamethasone Sodium Phosphate,1.1
+RE004,51,RC,"0360",0,Facility Fee,"130RE, 128RE, 129RE, 118OB",0.8230,Operating Room Services - General,1.1
+RE004,46132,HCPCS,J2704,0,Facility Fee,"130RE, 118OB, 129RE, 128RE",0.8120,Intramuscular Injection of 10mg Propofol,1.1
+RE004,72820,RC,"0636",0,Facility Fee,"128RE, 129RE, 118OB, 130RE",0.7904,Pharmacy - Extension of 025X - Drugs requiring detailed coding,1.1
+RE004,35956,RC,"0272",0,Facility Fee,"129RE, 118OB, 128RE, 130RE",0.7573,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Sterile",1.1
+RE004,6003,HCPCS,J2250,0,Facility Fee,"130RE, 118OB, 129RE, 128RE",0.7546,Intramuscular Injection of 1mg Midazolam Hydrochloride,1.1
+RE004,15556,HCPCS,J1885,0,Facility Fee,"130RE, 118OB, 129RE, 128RE",0.6319,Intramuscular Injection of 15mg Ketorolac Tromethamine,1.1
+RE004,14548,HCPCS,"88309",0,Facility Fee,"128RE",0.6181,"Surgical Pathology, Gross/Microscopic Examination; Resection Tumor/Neoplasm; Dissection/Disarticulation",1.1
+RE004,62884,HCPCS,"81025",0,Facility Fee,"130RE, 118OB, 129RE, 128RE",0.4563,Visual Comparison of Urine to Detect Pregnancy,1.1
+RE004,42244,HCPCS,"88332",0,Facility Fee,"118OB",0.2897,Pathology Consultation for Added Frozen Sections of Additional Tissue Blocks,1.1
+RE004,4995,HCPCS,J1170,0,Facility Fee,"118OB",0.1396,"Injection of Hydromorphone, Up to 4 MG",1.1
+RE004,109588,RC,"0278",0,Facility Fee,"130RE",0.0111,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - Other implants",1.1
+RE004,61444,RC,"0270",0,Optional Fee,"130RE, 118OB, 129RE, 128RE",0.3602,"Medical/Surgical Supplies and Devices (Also see 062X, an extension of 027X) - General",1.1
+RE004,16899,RC,"0300",0,Optional Fee,"118OB, 129RE, 128RE",0.3335,Laboratory - General,1.1
+RE004,52852,RC,"0310",0,Optional Fee,"118OB, 128RE",0.3189,Laboratory Pathology - General,1.1
+RE004,51172,HCPCS,J3490,0,Optional Fee,"118OB, 128RE",0.3179,Pharmaceuticals without Categories,1.1
+RE004,98740,RC,"0312",0,Optional Fee,"128RE, 118OB",0.3140,Laboratory Pathology - Histology,1.1
+RE004,48580,HCPCS,J0690,0,Optional Fee,"118OB",0.0967,Intramuscular Injection of 500mg Cefazolin Sodium,1.1
+RE004,108388,HCPCS,"85007",0,Optional Fee,"118OB",0.0941,Laboratory Blood Smearing and Differential Wbc Count,1.1
+RE004,67204,RC,"0258",0,Optional Fee,"130RE, 129RE",0.0321,"Pharmacy (Also see 063X, an extension of 250X) - IV solutions",1.1
+RE004,52228,HCPCS,"88108",0,Optional Fee,"129RE",0.0205,Concentration Technique Cytology Smear Interpretation (saccomanno),1.1
+RE004,48964,HCPCS,J7120,0,Optional Fee,"130RE",0.0095,Intravenous Infusion of 1000 Cc of Ringer's Lactate Solution,1.1
+RE004,26836,RC,"0307",0,Optional Fee,"130RE",0.0082,Laboratory - Urology,1.1
+RE004,103444,HCPCS,"00860",0,Professional Fee,"118OB, 129RE, 128RE",0.4359,"Anesthesia for Extraperitoneal Lower Abdominal Procedures, Nos",1.1
