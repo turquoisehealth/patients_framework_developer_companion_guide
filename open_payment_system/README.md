@@ -67,7 +67,7 @@ conjunction with the anchor code, known as the association rate.
 | Gynecology                   |         4 |         0 |         4 |
 | Hematology                   |         1 |         0 |         1 |
 | Lab / Pathology              |         1 |         1 |         0 |
-| Musculoskeletal              |        33 |         1 |        32 |
+| Musculoskeletal              |        30 |         1 |        29 |
 | Neurology                    |         7 |         3 |         4 |
 | Obstetrics                   |         1 |         0 |         1 |
 | Oncology / Radiation Therapy |         1 |         0 |         1 |
@@ -75,4 +75,4 @@ conjunction with the anchor code, known as the association rate.
 | Pulmonology                  |         3 |         1 |         2 |
 | Radiology                    |        18 |        17 |         1 |
 | Urology / Nephrology         |        11 |         0 |        11 |
-| **Total**                    |   **122** |    **32** |    **90** |
+| **Total**                    |   **119** |    **32** |    **87** |
